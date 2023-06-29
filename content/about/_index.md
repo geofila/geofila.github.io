@@ -1,30 +1,33 @@
 ---
 title: "about"
-date: 2020-10-20T17:51:47+03:30
+date: 2023-03-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Eric Anthony Mitchell"
+full_name: "Giorgos Filandrianos"
 profile_picture: "profile.png"
 # cv: "cv.pdf"
 blog: false
 
 socials:
-    twitter: "ericmitchellai"
-    github: "eric-mitchell"
-    linkedin: "ericanthonymitchell"
-    google_scholar: "citations?user=q77J4fgAAAAJ&hl=en"
+    twitter: "georgefilandr"
+    github: "geofila"
+    linkedin: "george-filandrianos"
 
 affiliations:
     - affiliation:
-        title: "Ph.D. Student"
-        name: "Stanford University"
-        email: "eric.mitchell@cs.stanford.edu"
+        title: "Ph.D. Candidate"
+        name: "National Technical University of Athens"
+        email: "geofila@islab.ntua.gr"
 ---
 
-I am a fourth-year PhD student in Stanford's CS department, where I'm fortunate to be advised by [Chelsea Finn][1] and [Christopher D. Manning][2]. The goal of my research is to build algorithms that make foundation models, particularly language models, safer and easier to use. I'm interested in deep learning generally, as well as meta-learning and continual learning more specifically. Much of my PhD has been generously supported by a [Knight-Hennessy Graduate Fellowship][KH].
+I am a fourth-year PhD student at the [AILS laboratory][https://www.ails.ece.ntua.gr/] of the [National Technical University of Athens][2-new]. The objective of my research is to develop eXplainable AI algorithms that can elucidate the internal mechanisms of black-box models or create foundational models that are more user-friendly and secure. I have gained experience in various aspects of AI, including deep learning with NLP, Counterfactual Explanations, Evaluation Metrics, and Knowledge Representation and Reasoning with automatic reasoning, among others.
+
 
 You can find my CV [here][CV].
+
+
+Previous semesters I had had fun TA'ing "Artificial Intelligence", "Artificial Intelligence and Data Analytics" and "Machine Learning".
 
 In the summer of 2022, I was a research scientist intern at DeepMind in London, where I was lucky to spend four months working with [Junyoung Chung][junyoung], [Nate Kushman][nate], and [Aäron van den Oord][aaron].
 
@@ -32,7 +35,8 @@ Before my PhD, I was a research engineer at [Samsung's AI Center][5] in New York
 
 In my free time, I make music for guitar and voice. I enjoy the outdoors, particularly golf courses and mountains.
 
-
+[1-new]: https://www.ails.ece.ntua.gr/
+[2-new]: https://www.ece.ntua.gr/gr
 [1]: https://ai.stanford.edu/~cbfinn/
 [2]: https://nlp.stanford.edu/manning/
 [3]: https://ai.stanford.edu
