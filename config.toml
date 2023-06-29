@@ -1,8 +1,8 @@
-baseURL = "https://ericmitchell.ai/"
+baseURL = "https://geofila.github.io/"
 languageCode = "en-us"
 theme = "avicenna"
-title = "Eric Mitchell"
+title = "Giorgos Filandrianos"
 
 [params]
 # for the copy-right section of your page
-name = "Eric Anthony Mitchell"
+name = "Giorgos Filandrianos"
