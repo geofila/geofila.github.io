@@ -1,17 +1,14 @@
 ---
-title: "Self-Destructing Models: Increasing the Costs of Harmful Dual Uses in
-Foundation Models"
+title: "Heuristics for Evaluation of AI Generated Music"
 authors:
-- Eric Mitchell*
-- Peter Henderson*
-- Christopher D. Manning
-- Dan Jurafsky
-- Chelsea Finn
+- Edmund Dervakos
+- Giorgos Filandrianos
+- Giorgos Stamou
 
-date: "2022-05-31"
+date: "2021-05-05"
 
-publication: "ICML Workshop on Pre-training"
+publication: "ICPR-2021"
 links:
-    pdf: https://openreview.net/pdf?id=fYPC0TnrItR
+    pdf: https://ieeexplore.ieee.org/abstract/document/9413310
 
 ---
