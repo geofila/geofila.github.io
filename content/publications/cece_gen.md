@@ -9,7 +9,7 @@ authors:
 
 date: "2023-03-02"
 
-publication: "AAAI-MAKE 2023"
+publication: "AAAI-MAKE"
 
 links:
     pdf: https://arxiv.org/abs/2303.01555

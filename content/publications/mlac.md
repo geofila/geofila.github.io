@@ -7,7 +7,7 @@ authors:
 
 date: "2021-05-05"
 
-publication: "ICPR-2021"
+publication: "ICPR"
 links:
     pdf: https://ieeexplore.ieee.org/abstract/document/9413310
 

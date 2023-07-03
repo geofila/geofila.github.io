@@ -11,7 +11,7 @@ authors:
 
 date: "2023-05-26"
 
-publication: "ACL 2023"
+publication: "ACL"
 
 links:
     pdf: https://arxiv.org/abs/2305.17055

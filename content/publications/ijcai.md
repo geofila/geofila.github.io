@@ -8,7 +8,7 @@ authors:
 
 date: "2023-05-28"
 
-publication: "IJCAI 2023"
+publication: "IJCAI"
 
 links:
     pdf: https://arxiv.org/abs/2305.17667
