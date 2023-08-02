@@ -13,4 +13,5 @@ publication: "IJCAI"
 links:
     pdf: https://arxiv.org/abs/2305.17667
     code: https://github.com/geofila/Semantic-Counterfactuals 
+    pypi: https://pypi.org/project/cece/ 
 ---
