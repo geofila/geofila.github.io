@@ -12,7 +12,7 @@ blog: false
 socials:
     twitter: "georgefilandr"
     github: "geofila"
-    linkedin: "george-filandrianos"
+    linkedin: "george-filandrianos-7693b9188"
 
 affiliations:
     - affiliation:
