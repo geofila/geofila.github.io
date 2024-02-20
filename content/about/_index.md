@@ -10,8 +10,9 @@ profile_picture: "profile.png"
 blog: false
 
 socials:
-    twitter: "georgefilandr"
+    google_scholar: "citations?user=oPIyXYcAAAAJ&hl=en"
     github: "geofila"
+    twitter: "georgefilandr"
     linkedin: "george-filandrianos-7693b9188"
 
 affiliations:
