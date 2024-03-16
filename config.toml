@@ -1,4 +1,6 @@
 baseURL = "https://geofila.github.io/"
+googleAnalytics = "UA/G-W3R0C8HCBQ"
+
 languageCode = "en-us"
 theme = "avicenna"
 title = "Giorgos Filandrianos"
