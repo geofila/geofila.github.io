@@ -10,7 +10,7 @@ authors:
 
 date: "2024-03-11"
 
-publication: "ICML 2024"
+publication: "ICML"
 
 links:
     pdf: https://arxiv.org/pdf/2403.06514
