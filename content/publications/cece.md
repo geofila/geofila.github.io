@@ -4,8 +4,8 @@ title: "Conceptual Edits as Counterfactual Explanations"
 authors:
 - Giorgos Filandrianos
 - Konstantinos Thomas
-- Edmund Dervakos1
-- Giorgos Stamou1
+- Edmund Dervakos
+- Giorgos Stamou
 
 date: "2022-03-23"
 

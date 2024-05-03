@@ -14,4 +14,5 @@ publication: "ArXiv"
 
 links:
     pdf: https://arxiv.org/abs/2402.11291
+    demo: https://puzzlellms.github.io
 ---
