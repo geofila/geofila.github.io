@@ -22,7 +22,7 @@ affiliations:
         email: "geofila@islab.ntua.gr"
 ---
 
-I am in my final year of my PhD at the [AILS laboratory][1-new] of the [National Technical University of Athens][2-new]. The objective of my research is to develop eXplainable AI algorithms that can elucidate the internal mechanisms of black-box models or create foundational models that are more user-friendly and secure. I have gained experience in various aspects of AI, including deep learning with NLP, Counterfactual Explanations, Evaluation Metrics, Knowledge Representation and Reasoning, among others.
+I am in my final year of my PhD at the [AILS Laboratory][1-new] of the [National Technical University of Athens][2-new], focusing on advancing the field of Natural Language Processing. My research also aims to develop explainable AI algorithms that can clarify the internal mechanisms of black-box models. Specializing in NLP, I have extensively explored its integration with explainable AI, working on projects involving deep learning techniques, counterfactual explanations, and evaluation metrics tailored to text-based data. My expertise further extends to knowledge representation and reasoning, with a significant portion of my work dedicated to enhancing the interpretability and security of NLP models.
 
 You can find my CV [here][CV].
 
