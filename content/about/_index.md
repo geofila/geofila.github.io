@@ -5,7 +5,7 @@ draft: false
 headless: true
 
 full_name: "Giorgos Filandrianos"
-profile_picture: "profile.png"
+profile_picture: "profile.JPG"
 # cv: "cv.pdf"
 blog: false
 
