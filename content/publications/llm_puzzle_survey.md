@@ -8,9 +8,9 @@ authors:
 - Giorgos Filandrianos
 - Giorgos Stamou
 
-date: "2024-02-17"
+date: "2024-09-22"
 
-publication: "ArXiv"
+publication: "EMNLP 2024"
 
 links:
     pdf: https://arxiv.org/abs/2402.11291
