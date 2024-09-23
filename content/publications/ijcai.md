@@ -6,7 +6,7 @@ authors:
 - Giorgos Filandrianos
 - Giorgos Stamou
 
-date: "2023-05-28"
+date: "2023-05-24"
 
 publication: "IJCAI"
 

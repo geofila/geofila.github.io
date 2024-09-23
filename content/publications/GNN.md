@@ -8,7 +8,7 @@ authors:
 - Konstantinos Thomas 
 - Giorgos Stamou 
 
-date: "2024-03-11"
+date: "2024-08-11"
 
 publication: "ICML"
 
