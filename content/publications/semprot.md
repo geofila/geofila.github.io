@@ -1,5 +1,5 @@
 ---
-title: "Semantic Prototypes: Enhancing Transparency Without Black Boxes [🏆](https://sigir-2024.github.io/attend_studAwards.html)"
+title: "Semantic Prototypes: Enhancing Transparency Without Black Boxes"
 
 authors:
 - Orfeas Menis-Mastromichalakis
