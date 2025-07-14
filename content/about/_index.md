@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Giorgos Filandrianos"
 profile_picture: "profile.JPG"
-# cv: "cv.pdf"
+cv: "cv.pdf"
 blog: false
 
 socials:
@@ -17,7 +17,7 @@ socials:
 
 affiliations:
     - affiliation:
-        title: "Ph.D. Candidate"
+        title: "Ph.D."
         name: "National Technical University of Athens"
         email: "geofila@islab.ntua.gr"
 ---
