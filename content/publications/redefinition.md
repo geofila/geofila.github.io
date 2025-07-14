@@ -9,7 +9,7 @@ authors:
 
 date: "2025-02-18"
 
-publication: "ACL2025"
+publication: "ACL 2025"
 
 links:
     pdf: https://arxiv.org/abs/2502.12821
