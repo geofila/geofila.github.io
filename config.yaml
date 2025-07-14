@@ -1,0 +1,12 @@
+baseURL: 'https://geofila.github.io'
+languageCode: 'en-us'
+title: 'Giorgos Filandrianos'
+
+sitemap:
+  changefreq: 'monthly'
+  priority: 0.5
+  filename: 'sitemap.xml'
+
+params:
+  description: 'Researcher in Natural Language Processing and Explainable AI'
+  author: 'Giorgos Filandrianos'
