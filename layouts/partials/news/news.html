@@ -1,0 +1,34 @@
+<div class="news row w-100">
+    <div class="col w-100">
+        {{ $news_items := .Params.news_items }}
+        {{ if $news_items }}
+        <ul class="news_list" style="list-style: none; padding: 0;">
+            {{ range $item := $news_items }}
+            <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
+                <span style="margin-right: 10px; font-size: 1.2em;">
+                    {{ if eq $item.icon "award" }}🏆
+                    {{ else if eq $item.icon "trophy" }}🏆
+                    {{ else if eq $item.icon "star" }}⭐
+                    {{ else if eq $item.icon "file-text" }}📄
+                    {{ else if eq $item.icon "book" }}📚
+                    {{ else if eq $item.icon "cpu" }}🧠
+                    {{ else if eq $item.icon "users" }}👥
+                    {{ else }}📌{{ end }}
+                </span>
+                <div>
+                    {{ if and $item.link (ne $item.link "#") }}
+                    <a href='{{ $item.link }}' target="_blank" style="text-decoration: none; color: inherit;">
+                        <strong class="main_color">{{ $item.text }}</strong>{{ if $item.extra_text }} - <span style="color: #666; font-style: italic; font-size: 0.95em;">{{ $item.extra_text }}</span>{{ end }}
+                    </a>
+                    {{ else }}
+                    <strong>{{ $item.text }}</strong>{{ if $item.extra_text }} - <span style="color: #666; font-style: italic; font-size: 0.95em;">{{ $item.extra_text }}</span>{{ end }}
+                    {{ end }}
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+        {{ else }}
+        <p style="color: red; font-weight: bold;">No news_items found in YAML</p>
+        {{ end }}
+    </div>
+</div>
