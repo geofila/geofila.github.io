@@ -12,7 +12,7 @@ default_news_icon: "calendar"
 num_news: 9
 news_items:
   - text: "NeurIPS 2025 Paper Accepted"
-    link: "https://www.linkedin.com/company/artificial-intelligence-and-learning-systems-laboratory/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bw0GwYsvcR%2Fi7HAXhmd%2BZ7Q%3D%3D"
+    link: "https://www.linkedin.com/posts/artificial-intelligence-and-learning-systems-laboratory_neurips-xai-counterfactuals-activity-7374468189222633472-9nN2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwyoAEBw7XWaHCV5v8whUMipkAcDHi1jIw"
     extra_text: "V-CECE is a training-free black-box framework that generates semantic counterfactuals, revealing the gap between human reasoning and how CNNs, ViTs, and LVLMs make decisions."
     icon: "file-text"
   - text: "3 Papers Accepted in the Main Conference of EMNLP 2025"
