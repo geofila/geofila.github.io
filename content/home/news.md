@@ -9,8 +9,12 @@ section_settings:
     title: 'Latest News'
 show_news_icons: true
 default_news_icon: "calendar"
-num_news: 8
+num_news: 9
 news_items:
+  - text: "NeurIPS 2025 Paper Accepted"
+    link: "https://www.linkedin.com/company/artificial-intelligence-and-learning-systems-laboratory/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bw0GwYsvcR%2Fi7HAXhmd%2BZ7Q%3D%3D"
+    extra_text: "V-CECE is a training-free black-box framework that generates semantic counterfactuals, revealing the gap between human reasoning and how CNNs, ViTs, and LVLMs make decisions."
+    icon: "file-text"
   - text: "3 Papers Accepted in the Main Conference of EMNLP 2025"
     link: "https://www.linkedin.com/posts/petrosrapto_pakton-a-multi-agent-framework-for-question-activity-7364248708416204801-H1o3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwyoAEBw7XWaHCV5v8whUMipkAcDHi1jIw"
     extra_text: "A paper on cognitive biases of LLMs when used as product recommenders, a state-of-the-art RAG mechanism on legal documents, and a paper revealing gender biases in MT systems"
