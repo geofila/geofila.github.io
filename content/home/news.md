@@ -11,6 +11,10 @@ show_news_icons: true
 default_news_icon: "calendar"
 num_news: 9
 news_items:
+  - text: "Paper Accepted at ACL 2026"
+    link: "https://arxiv.org/abs/2510.15949"
+    extra_text: "ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination"
+    icon: "file-text"
   - text: "NeurIPS 2025 Paper Accepted"
     link: "https://www.linkedin.com/posts/artificial-intelligence-and-learning-systems-laboratory_neurips-xai-counterfactuals-activity-7374468189222633472-9nN2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwyoAEBw7XWaHCV5v8whUMipkAcDHi1jIw"
     extra_text: "V-CECE is a training-free black-box framework that generates semantic counterfactuals, revealing the gap between human reasoning and how CNNs, ViTs, and LVLMs make decisions."
