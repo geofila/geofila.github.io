@@ -50,7 +50,7 @@ news_items:
   - text: "Paper Accepted at CIKM 2024"
     link: "https://arxiv.org/pdf/2407.15871"
     extra_text: "Semantic Prototypes: Enhancing Transparency Without Black Boxes"
-    icon: "trophy"
+    icon: "file-text"
   - text: "Paper Accepted at ACL 2023"
     link: "https://aclanthology.org/2023.findings-acl.606.pdf"
     extra_text: "Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors"
