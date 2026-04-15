@@ -14,6 +14,6 @@ publication: "CIKM"
 
 links:
     🏆: https://sigir-2024.github.io/attend_studAwards.html
-    pdf: https://arxiv.org/pdf/2403.06514
+    pdf: https://arxiv.org/pdf/2407.15871
     code: https://github.com/ails-lab/Semantic-Prototypes
 ---

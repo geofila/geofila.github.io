@@ -14,6 +14,6 @@ date: "2023-05-26"
 publication: "ACL"
 
 links:
-    pdf: https://arxiv.org/abs/2305.17055
+    pdf: https://aclanthology.org/2023.findings-acl.606.pdf
     code: https://github.com/geofila/Counterfactuals-of-Counterfactuals
 ---

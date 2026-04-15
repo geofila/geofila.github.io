@@ -11,7 +11,7 @@ date: "2023-05-24"
 publication: "IJCAI"
 
 links:
-    pdf: https://arxiv.org/abs/2305.17667
+    pdf: https://www.ijcai.org/proceedings/2023/0043.pdf
     code: https://github.com/geofila/Semantic-Counterfactuals 
     pypi: https://pypi.org/project/cece/ 
 ---
